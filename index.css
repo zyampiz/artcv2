@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    
+}
+section{
+    float: right;
+    margin: 20px;
+    padding: 5px;
+    
+}
