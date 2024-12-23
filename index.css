@@ -1,10 +1,26 @@
-body{
-    display: flex;
-    
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
 }
-section{
-    float: right;
-    margin: 10px;
-    padding: 5px;
-    
+
+header {
+    display: flex; /* Alínea los elementos hijos en fila horizontal */
+    justify-content: center; /* Centra las imágenes horizontalmente */
+    align-items: center; /* Centra las imágenes verticalmente */
+    gap: 10px; /* Espaciado entre las imágenes */
+    padding: 20px;
+    background-color: #5ab021; /* Fondo oscuro */
 }
+
+/* Estilos para las imágenes */
+header img {
+    width: 110px; /* Ancho fijo */
+    height: 110px; /* Alto fijo */
+    object-fit: cover; /* Asegura que las imágenes se mantengan cuadradas sin deformarse */
+    border-radius: 5px; /* Bordes ligeramente redondeados */
+    box-shadow: 0 4px 8px rgba(21, 20, 20, 0.5); /* Sombra para destacar las imágenes */
+}
+
+
+
