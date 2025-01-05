@@ -4,7 +4,11 @@ body {
     font-family: Arial, sans-serif;
 }
 
-
+img[alt="blogger-logo"] {
+    width: 194px;
+    height: 37px;
+    object-fit: cover; /* Asegura que la imagen se ajuste sin deformarse */
+}
 
 
 
