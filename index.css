@@ -9,6 +9,12 @@ img[alt="blogger-logo"] {
     height: 37px;
     object-fit: cover; /* Asegura que la imagen se ajuste sin deformarse */
 }
+img[alt="banner"] {
+    width: 939px;
+    height: 247px;
+    object-fit: cover;
+
+}
 
 
 
