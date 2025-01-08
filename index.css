@@ -11,20 +11,33 @@ img[alt="banner"] {
 }
 img[alt="Bloggerlogo"] {
     width: 194px;
-    height: 37px;    
+    height: 37px;
+    object-fit: cover;    
 }
 
 img[alt="Domestikalogo"] {
     width: 170px;
-    height: 37px;  
+    height: 37px;
+    object-fit: cover;  
 }
 img[alt="Udemylogo"] {
     width: 150px;
-    height: 37px;   
+    height: 37px;
+    object-fit: cover;   
 }
 img[alt="Behancelogo"] {
     width: 180px;
     height: 37px;    
+}
+img[alt="Pinterestlogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
+}
+img[alt="Githublogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
 }
 
 
