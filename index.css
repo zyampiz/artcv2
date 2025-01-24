@@ -44,6 +44,11 @@ img[alt="tumblrlogo"] {
     height: 37px;
     object-fit: cover;
 }
+img[alt="sketchadaylogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
+}
 
 
 
