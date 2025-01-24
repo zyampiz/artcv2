@@ -39,6 +39,11 @@ img[alt="Githublogo"] {
     height: 37px;
     object-fit: cover;
 }
+img[alt="tumblrlogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
+}
 
 
 
