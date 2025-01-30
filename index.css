@@ -49,6 +49,11 @@ img[alt="sketchadaylogo"] {
     height: 37px;
     object-fit: cover;
 }
+img[alt="Linkedinlogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
+}
 
 
 
