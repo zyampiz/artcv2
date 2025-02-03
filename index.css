@@ -14,17 +14,6 @@ img[alt="Bloggerlogo"] {
     height: 37px;
     object-fit: cover;    
 }
-
-img[alt="Domestikalogo"] {
-    width: 170px;
-    height: 37px;
-    object-fit: cover;  
-}
-img[alt="Udemylogo"] {
-    width: 150px;
-    height: 37px;
-    object-fit: cover;   
-}
 img[alt="Behancelogo"] {
     width: 180px;
     height: 37px;    
@@ -54,6 +43,31 @@ img[alt="Linkedinlogo"] {
     height: 37px;
     object-fit: cover;
 }
+
+/* formacion continua */
+
+img[alt="Escuelajeanlogo"] {
+    width: 180px;
+    height: 37px;
+    object-fit: cover;
+}
+img[alt="Skillsharelogo"] {
+    width: 150px;
+    height: 37px;
+    object-fit: cover;   
+}
+img[alt="Domestikalogo"] {
+    width: 170px;
+    height: 37px;
+    object-fit: cover;  
+}
+img[alt="Udemylogo"] {
+    width: 150px;
+    height: 37px;
+    object-fit: cover;   
+}
+
+
 
 
 
