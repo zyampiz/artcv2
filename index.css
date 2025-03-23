@@ -14,6 +14,13 @@ img[alt="Bloggerlogo"] {
     height: 37px;
     object-fit: cover;    
 }
+
+img[alt="instagram-logo"] {
+    width: 194px;
+    height: 37px;
+    object-fit: cover;    
+}
+
 img[alt="Behancelogo"] {
     width: 180px;
     height: 37px;    
